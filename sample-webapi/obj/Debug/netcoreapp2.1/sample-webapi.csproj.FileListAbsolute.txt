@@ -1,0 +1,17 @@
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\bin\Debug\netcoreapp2.1\sample-webapi.deps.json
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\bin\Debug\netcoreapp2.1\sample-webapi.runtimeconfig.json
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\bin\Debug\netcoreapp2.1\sample-webapi.runtimeconfig.dev.json
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\bin\Debug\netcoreapp2.1\sample-webapi.dll
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\bin\Debug\netcoreapp2.1\sample-webapi.pdb
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.csprojAssemblyReference.cache
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.AssemblyInfoInputs.cache
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.AssemblyInfo.cs
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.csproj.CoreCompileInputs.cache
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.RazorAssemblyInfo.cache
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.RazorAssemblyInfo.cs
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.RazorTargetAssemblyInfo.cache
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.dll
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.pdb
+D:\mayo\.netcore\web apis\sample-webapi\sample-webapi\sample-webapi\obj\Debug\netcoreapp2.1\sample-webapi.genruntimeconfig.cache
